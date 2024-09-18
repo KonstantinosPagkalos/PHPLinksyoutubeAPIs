@@ -13,7 +13,7 @@ $videoLinks = [
     'https://www.youtube.com/watch?v=_rKpipQY0Oc'
 ];
 
-$apiKey = 'AIzaSyCVMJei_bNg7xw9pyGV8TvsaqpZZAhgi_o';
+$apiKey = '';
 
 $requestCounter = 0;
 $totalCalls = 5000;
